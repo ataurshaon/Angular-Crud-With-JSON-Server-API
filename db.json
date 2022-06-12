@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "ovi",
+      "lastName": "ataur",
+      "email": "shaonn22@gmail.com",
+      "mobile": "01823578649",
+      "salary": "20000"
+    },
+    {
+      "id": 4,
+      "firstName": "ataur",
+      "lastName": "rahman",
+      "email": "rahman@gmail.com",
+      "mobile": "34343434",
+      "salary": "10000"
+    },
+    {
+      "id": 5,
+      "firstName": "ateeb",
+      "lastName": "rahman",
+      "email": "ateeb@gmail.com",
+      "mobile": "3343434",
+      "salary": "50000"
+    },
+    {
+      "id": 6,
+      "firstName": "ataur",
+      "lastName": "shaon",
+      "email": "shaonn22@gmail.com",
+      "mobile": "01823578649",
+      "salary": "5000"
+    },
+    {
+      "id": 7,
+      "firstName": "ataur",
+      "lastName": "shaon",
+      "email": "shaonn22@gmail.com",
+      "mobile": "01823578649",
+      "salary": "5000"
+    },
+    {
+      "id": 8,
+      "firstName": "rahi",
+      "lastName": "raihan",
+      "email": "rahi@gmail.com",
+      "mobile": "23423434",
+      "salary": "50000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
